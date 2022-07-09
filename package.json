@@ -1,0 +1,28 @@
+{
+  "name": "npm-badger",
+  "version": "1.0.0",
+  "description": "Auto inject badges markdown in README.md",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "nyc node_modules/mocha/bin/mocha tests/*"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/npm-badger.git"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.5.1",
+    "eslint-config-strongloop": "^2.1.0",
+    "mocha": "^6.2.1",
+    "nyc": "^15.1.0"
+  },
+  "author": "Arshad Kazmi",
+  "license": "MIT"
+}
