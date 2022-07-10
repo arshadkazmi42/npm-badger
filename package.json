@@ -33,6 +33,7 @@
   "author": "Arshad Kazmi",
   "license": "MIT",
   "dependencies": {
+    "@gh-conf/gh-conf-parse": "^1.1.0",
     "log-symbols": "^5.1.0"
   }
 }
