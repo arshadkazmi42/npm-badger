@@ -15,7 +15,14 @@
     "type": "git",
     "url": "git+https://github.com/arshadkazmi42/npm-badger.git"
   },
-  "keywords": [],
+  "keywords": [
+    "npm",
+    "badger",
+    "badge",
+    "markdown",
+    "readme",
+    "npm badger"
+  ],
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^6.5.1",
@@ -24,5 +31,8 @@
     "nyc": "^15.1.0"
   },
   "author": "Arshad Kazmi",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "log-symbols": "^5.1.0"
+  }
 }
