@@ -8,7 +8,7 @@
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/npm-badger.svg)](https://github.com/arshadkazmi42/npm-badger/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/npm-badger.svg)](https://github.com/arshadkazmi42/npm-badger/commits/master)
 
-Auto inject badges markdown in README.md
+Auto inject markdown badges of NPM and Github in README.md of current directory.
 
 ## Install
 
