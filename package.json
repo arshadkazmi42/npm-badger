@@ -1,6 +1,6 @@
 {
   "name": "npm-badger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto inject badges markdown in README.md",
   "main": "index.js",
   "bin": {
