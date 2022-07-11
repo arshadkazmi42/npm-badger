@@ -37,8 +37,6 @@
   "license": "MIT",
   "dependencies": {
     "@gh-conf/gh-conf-parse": "^1.1.0",
-    "log-symbols": "^5.1.0",
-    "npm-badge-generator": "^1.0.1",
-    "ora": "^6.1.2"
+    "npm-badge-generator": "^1.0.1"
   }
 }
