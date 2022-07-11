@@ -1,8 +1,14 @@
 # npm-badger
 
 [![Build](https://github.com/arshadkazmi42/npm-badger/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/npm-badger/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/npm-badger.svg)](https://www.npmjs.com/package/npm-badger)
+[![NPM Downloads](https://img.shields.io/npm/dt/npm-badger.svg)](https://www.npmjs.com/package/npm-badger)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/npm-badger.svg)](https://github.com/arshadkazmi42/npm-badger)
+[![LICENSE](https://img.shields.io/npm/l/npm-badger.svg)](https://github.com/arshadkazmi42/npm-badger/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/npm-badger.svg)](https://github.com/arshadkazmi42/npm-badger/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/npm-badger.svg)](https://github.com/arshadkazmi42/npm-badger/commits/master)
 
-{{PACKAGE_DESCRIPTION}}
+Auto inject badges markdown in README.md
 
 ## Install
 
@@ -12,9 +18,10 @@ npm install npm-badger -g
 
 ## Usage
 
-```javascript
+```bash
 
-{{USAGE_EXAMPLE}}
+$ cd my-github-repository-folder
+$ npm-badger
 
 ```
 

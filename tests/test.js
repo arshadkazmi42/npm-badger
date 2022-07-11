@@ -1,7 +1,5 @@
 const Fs = require('fs');
-const {
-  expect
-} = require('chai');
+const { expect } = require('chai');
 
 const badger = require('../npm-badger');
 
