@@ -23,6 +23,8 @@ npm install npm-badger -g
 $ cd my-github-repository-folder
 $ npm-badger
 
+  ✔ Badges injected sucessfully!
+
 ```
 
 ## Contributing

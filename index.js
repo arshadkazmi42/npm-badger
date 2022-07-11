@@ -2,4 +2,6 @@
 
 const badger = require('./npm-badger');
 
-badger.generate();
+badger.generate(process.cwd());
+
+console.log('✔ Badges injected sucessfully!');
