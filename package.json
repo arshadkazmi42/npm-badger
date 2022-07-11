@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Auto inject badges markdown in README.md",
   "main": "index.js",
+  "bin": {
+    "npm-badger": "index.js"
+  },
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
     "pretest": "eslint --ignore-path .gitignore .",
@@ -34,6 +37,8 @@
   "license": "MIT",
   "dependencies": {
     "@gh-conf/gh-conf-parse": "^1.1.0",
-    "log-symbols": "^5.1.0"
+    "log-symbols": "^5.1.0",
+    "npm-badge-generator": "^1.0.1",
+    "ora": "^6.1.2"
   }
 }
