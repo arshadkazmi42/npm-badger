@@ -12,7 +12,8 @@
     "test": "nyc node_modules/mocha/bin/mocha tests/*"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "npm-badger.js"
   ],
   "repository": {
     "type": "git",
